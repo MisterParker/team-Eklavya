@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "team_eklavya",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
